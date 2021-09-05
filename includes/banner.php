@@ -1,11 +1,11 @@
 <div class="banner">
 	<div class="welcome_msg">
-		<h1>Today's Inspiration</h1>
+		<h1>Take home examination</h1>
 		<p> 
 		    One day your life <br> 
 		    will flash before your eyes. <br> 
 		    Make sure it's worth watching. <br>
-			<span>~ Gerard Way</span>
+			<span>~ Shifara Zahran</span>
 		</p>
 		<a href="register.php" class="btn">Join us!</a>
 	</div>
